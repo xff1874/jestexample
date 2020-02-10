@@ -1,0 +1,26 @@
+{
+  "name": "jestexample",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/xff1874/jestexample.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/xff1874/jestexample/issues"
+  },
+  "homepage": "https://github.com/xff1874/jestexample#readme",
+  "devDependencies": {
+    "babel-core": "^6.26.3",
+    "babel-jest": "^25.1.0",
+    "babel-preset-env": "^1.7.0",
+    "jest": "^25.1.0",
+    "regenerator-runtime": "^0.13.3"
+  }
+}
